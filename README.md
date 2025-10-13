@@ -27,3 +27,14 @@ PostgreSQL
 
 Flask
 
+Cara menjalankan: 
+
+pip install -r requirements.txt
+
+bash
+python server.py
+
+berjalan diport 6000
+
+
+
